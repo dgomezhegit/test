@@ -1,3 +1,4 @@
 Feature REQ_001 en Primer fichero del repositorio
 Ahora añadimos código nuevo para una nueva funcionalidad que tenemos que entregar a cliente
 Feature REQ_002 en Primer fichero del repositorio
+cambios para stash
